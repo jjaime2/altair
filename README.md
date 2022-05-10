@@ -16,6 +16,9 @@
 + [Demonstration](#demo)
 + [Goals](#goals)
 + [Documentation](#docs)
+  + [Mechanical](#docs/mechanical)
+  + [Electrical](#docs/electrical)
+  + [Software](#docs/software)
 + [Acknowledgements](#acknowledgement)
 
 ## About <a name = "about"></a>
