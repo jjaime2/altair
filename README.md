@@ -19,7 +19,7 @@
 + [Acknowledgements](#acknowledgement)
 
 ## About <a name = "about"></a>
-This repository will track the progress of designing Altair, a robotics platform for autonomous navigation
+This repository will track the progress of designing Altair, a robotics platform for autonomous navigation. Trying to make each new feature meaningful and minimize future regret.
 
 ## Demonstration <a name = "demo"></a>
 Updating Fall 2022 (hopefully)
@@ -36,8 +36,11 @@ Updating Fall 2022 (hopefully)
 :white_square_button: ??? (long-term TBD)
 
 ## Documentation <a name = "docs"></a>
+### Mechanical <a name = "docs/mechanical"></a>
+
+### Electrical <a name = "docs/electrical"></a>
+
+### Software <a name = "docs/software"></a>
 
 ## Acknowledgements <a name = "acknowledgement"></a>
-+ Hat tip to anyone whose code was used
-+ Inspiration
-+ References
++ TBD
