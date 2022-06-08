@@ -25,12 +25,12 @@
 This repository will track the progress of designing Altair, a robotics platform for autonomous navigation. Trying to make each new feature meaningful and minimize future regret.
 
 ## Demonstration <a name = "demo"></a>
-Updating Fall 2022 (hopefully)
+https://user-images.githubusercontent.com/44282641/172727100-0e8e3be9-ca20-4996-9dce-d64b1dc3de60.mp4
 
 ## Goals <a name = "goals"></a>
-:white_square_button: Chassis assembled
+:white_check_mark: Chassis assembled
 
-:white_square_button: Manual steering
+:white_check_mark: Manual steering
 
 :white_square_button: ??? (short-term TBD)
 
